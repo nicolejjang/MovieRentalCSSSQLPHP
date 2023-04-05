@@ -1,0 +1,38 @@
+#success_message{ display: none;}
+a{
+    text-decoration: none;
+    
+}
+a:link{
+    color: rgb(0, 0, 0);
+}
+  
+img{
+	height: 800px;
+	width: 1980px;
+}
+
+body{
+	background-color: #92a8d1;
+}
+
+.form-group {
+	text-align: center;
+	margin:auto;
+	display:block;
+	font-size: 25px;
+	color: black;
+}
+
+label {
+    display: block;
+	margin:auto;
+	font-size: 25px;
+}
+
+input,
+label {
+    margin: auto;
+	display: block;
+	text-align: center;
+}
